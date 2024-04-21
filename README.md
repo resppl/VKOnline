@@ -9,7 +9,6 @@
 
 
 # Run the following command at the command prompt to install the Python library:
-
   pip install vk_api time
 
 # 🇷🇺 | VKOnline
@@ -23,5 +22,4 @@
 
 
 # Выполните следующую команду в командной строке для установки библиотеки для Python:
-
   pip install vk_api time
