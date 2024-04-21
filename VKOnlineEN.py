@@ -1,5 +1,5 @@
 # AUTHOR'S GITHUB: github.com/resppl
-# SCRIPT ON GITHUB: github.com/resppl/TelegramRemotePC
+# SCRIPT ON GITHUB: github.com/resppl/VKOnline
 
 import vk_api
 import time
