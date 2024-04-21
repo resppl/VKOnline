@@ -1,5 +1,5 @@
 # ГИТХАБ АВТОРА: github.com/resppl
-# СКРИПТ НА ГИТХАБЕ: github.com/resppl/TelegramRemotePC
+# СКРИПТ НА ГИТХАБЕ: github.com/resppl/VKOnline
 # САЙТ АВТОРА: resppl.ru
 
 import vk_api
