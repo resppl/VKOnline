@@ -1,9 +1,9 @@
 # 🇺🇸 | VKOnline
 💬 We present you a script that will allow you to maintain a constant online presence on the VKontakte social network.
 
-📝 To use this script, you need to get the VKontakte API key. You can get it by clicking on the following link: https://dev.vk.com/ru /.
+📝 To use this script, you need to get the VKontakte API key. You can get it by clicking on the following link: https://dev.vk.com/en/.
 
-💻 After receiving the API key, you will need to open the provided script (VKOnlineUS), replace the API key in it with your own and run the script. You can also store the script on your own server.
+💻 After receiving the API key, you will need to open the provided script (VKOnlineEN), replace the API key in it with your own and run the script. You can also store the script on your own server.
 
 ⚠️ However, please note that I am not responsible for the possible blocking of your account. Remember that the use of this script is at your own risk. I am not responsible for any consequences of blocking your account.
 
